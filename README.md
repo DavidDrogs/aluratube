@@ -1,6 +1,6 @@
 # Aluratube
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/github/license/DavidDrogs/aluratube)](https://github.com/DavidDrogs/aluratube/LICENSE.md)
 
 > :rocket: A template to help you create open source projects more organized.
 
