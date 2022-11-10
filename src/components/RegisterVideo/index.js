@@ -53,7 +53,7 @@ export default function RegisterVideo() {
                         <input 
                             placeholder="URL" 
                             name="url"
-                            value={formCadastro.value.url}
+                            value={formCadastro.values.url}
                             onChange={formCadastro.handleChange} 
                         />
                         <button type="submit">
