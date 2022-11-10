@@ -8,7 +8,10 @@
 
 To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
 
-## Contributing
+## Como esta nosso projeto?
+`_app.js`: Carrega o setup base do projeto.
+  -aqui vao ficar os providers de informacao do nosso projeto
+  -CssReset
 
 
 ## History
